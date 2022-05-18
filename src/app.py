@@ -3,9 +3,6 @@ from src.routers import user, expense, auth, expense_type, login, income_type, i
 from src import config
 from functools import lru_cache
 from fastapi.middleware.cors import CORSMiddleware
-# from src.config import GetOauth, ConfigureGoogleClient
-from authlib.integrations.starlette_client import OAuth, OAuthError
-from starlette.responses import RedirectResponse
 from starlette.middleware.sessions import SessionMiddleware
 from fastapi import Request
 from starlette.responses import RedirectResponse
