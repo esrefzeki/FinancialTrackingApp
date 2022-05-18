@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "financial-tracking-app",
+  "private_key_id": "6d54125c13f7baa513e99de776da3bbe84d4b0f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/3XbUs/oH/SMK\nX39RicGlyHJ77LTCidwDplA6nLqMOtgJrY7i+ipbpjhhch04y14D4Kz65tcTJPq5\nmXzmBFmkTV9VS+NjqWemwYClo2SXwOUtEvo9kVf03acQnFKL5ZQCoIV6xsiw++Kz\nmfR2/7VO/gLHIOFxOpB3bGZQLzyuqW33PcHF+uSD4xCUKFRSLGpMz8uKttzw1wS6\nfc1StU7zGGVDAz+2wXLGCHl+99pU4Fc8nW7P3ntQLpjlCPVFlvSpURban6YDvyWO\nnCsyXOmmj7BpFkqeAzepHhLOnixFDntGwTOiy/L0XY0CLebFwUmgnVHFCvxXCMPi\nWW8jyju1AgMBAAECggEARbROQylduYBINjEKntNm1HV1zjrpUtHl6jeGZzzgcyi/\nqwhwZFrRf7lsO07LegI8VjlObtrloVFqe3pdS22iKZRogaMP6fm2K/mZ5NNvLMjK\nGe2Ol0aSB2ZtlxXL0YJnGus5gyjr6YyhSHGyxHbS5m9XEAQMk2fc614o75GxwJww\nom287a8QGJ/d8C7+xPrxLfpljw64bCxxnpvZCoJjrx7wXTwPZBeIYzvcM/dFPyhv\n2tw8q0+Vdu5QiJn6odX/0kSyzaOj4snJaWQoy0zOwFyp44WtMoOa7eBgTektKx/1\no2eQbf7TU8A54Mw13Ah2i/QnOLPR5fCnsa2vZEZaowKBgQDyqI1/AX71JuEPprff\nglKeCVwR7X2liKFW5T5KMDA+2E8TOjwcJD5NP02hoEM+J7sG6hfM5qqyvBIjNXYs\nu6vuGAub7Qd1f3cZHPlz2ZwQyXzbQDFrfBN2RTQsDGqCWYaadTnB1obDDgaVLDHe\ncebAU1pmyUkGu4ekihSMCg5vCwKBgQDKaf0/KptYEHsU0tQqYwLijwLP+pSIkdvp\nqBhqlCtV1jFQZesBnab2NY4NEUBBQLOh8su9miwahlyZ6QbPqJeWnroyp6MboFej\nCj5WvCTQOlZhJL+Y756HrHcHxQIffXNHpvROFwE2/Wm33dUf65PCp2dzi9hLrguw\nAm/k92e4PwKBgQCj2DFqLz1lFHJkmgKPdTSJpvI23K+5BK9DuBg+CZmZ5X5HEkwi\nCErU58hoOIkOv87l1UxqutlJQ/nPMjrv62wkoLG9/+bIbF+jYlAA7E8XeqTGeeqk\nk6ukcQfQMjX8e6yKQFrWSh7GN4M0WBn4A9p1xBJHUuPvGtJ0xBMpl2S1jwKBgQCb\nck40ZmoqdW2wjkC11JfwmdeVFWFgiHOUu60UnHmzT+1LSxnxgbspNfPDgU4RTrkl\nVCq3j2DzdeBDqru6WkUgPQHNyQPwQXFMGp/JSHAVIdgYfnpN3yemFgLLiraYrGUN\nz9+q4Ovj6TV5KPl1rBsr0BgYmnsfk6gSIa0A8CdNTQKBgE+sMAvi2NMWdoDPy7n9\n+k54WXWkrPtH4XHuXFVY2yl0e/pkJ2C6obrTtC/Y4jlP29ixDLicxJ8xmPecHELk\n897xXzUExc1fkFPm0RqF6Brr4EZfle9incHf+cna5XRZ0SE1uONMOA/jRSP7qhBz\nbjK55jwIC9OXXyWVS43NIVqZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "users-info@financial-tracking-app.iam.gserviceaccount.com",
+  "client_id": "109265986076556867545",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/users-info%40financial-tracking-app.iam.gserviceaccount.com"
+}
