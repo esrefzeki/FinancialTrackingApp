@@ -31,17 +31,6 @@ class UserResponse(BaseModel):
         orm_mode = True
 
 
-class IncomeResponse(BaseModel):
-    id: int
-    income_response: int
-    email: EmailStr
-    created_at: datetime
-    phone_number: str
-
-    class Config:
-        orm_mode = True
-
-
 class UserLogin(BaseModel):
     email: EmailStr
     password: str
