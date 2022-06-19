@@ -11,6 +11,7 @@ Financial Tracking Application allows you to easily track your financial income 
 
 * Requirements:
   - Python 3.9
+  - PostgresSQL
 
 -> Download all package: ```pip install -r requirements.txt``` (file-path: /FinancialTracking) root
 
